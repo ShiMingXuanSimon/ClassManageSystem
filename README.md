@@ -26,7 +26,7 @@
 
 # ClassScoreManageSystem
 
-Install this APP on the computer in the class, and use points and study groups to make students progress.
+Install this APP on the computer in the class, and use score and study groups to make students progress.
 
 Currently, they are all test versions. There are no records for versions before 0.1.0. Because before that, I always directly modified the code and overwrote the compilation.
 
